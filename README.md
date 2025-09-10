@@ -10,3 +10,4 @@
 > 성실한 사람이 되자.
 
 [👉 My Blog](https://blog.naver.com/greattang)
+[👉 BOJ Profile](https://solved.ac/profile/greattang2)
