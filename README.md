@@ -9,4 +9,4 @@
 ## 목표
 > 성실한 사람이 되자.
 
-[👉 GitHub 프로필 보러 가기](https://github.com/username)
+[👉 My Blog](https://blog.naver.com/greattang)
