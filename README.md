@@ -7,7 +7,7 @@
 - 웹 개발
 
 ## 목표
-> 성실한 사람이 되자.
+어제보다 나은 오늘
 
 [My Blog](https://blog.naver.com/greattang)
 [BOJ Profile](https://solved.ac/profile/greattang2)
